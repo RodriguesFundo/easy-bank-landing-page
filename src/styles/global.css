@@ -6,11 +6,13 @@
 
 body {
   font-size: 1.8rem;
+  font-family: 'Public Sans', sans-serif;
 }
 
 input, button {
   border: none;
   background-color: transparent;
 }
+
 
 
